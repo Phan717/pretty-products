@@ -85,7 +85,7 @@ ul li {
 
 }
 
-ul li: first-child {
+ul li:first-child {
   margin-right: auto;
 }
 
